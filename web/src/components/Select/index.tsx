@@ -1,4 +1,4 @@
-import React, {SelectHTMLAttributes} from "react";
+import  {SelectHTMLAttributes} from "react";
 import './styles.css'
 
 interface SelectIo extends SelectHTMLAttributes <HTMLSelectElement>{

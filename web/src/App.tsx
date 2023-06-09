@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import './assets/Styles/global.css'
 
 import { Rotas } from './routes'
